@@ -1,6 +1,5 @@
 import React from 'react';
 import axios, { AxiosResponse } from 'axios';
-import { EMLINK } from 'constants';
 
 function App() {
 
